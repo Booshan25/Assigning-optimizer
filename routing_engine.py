@@ -1,7 +1,5 @@
 import pandas as pd
 
-import pandas as pd
-
 def assign_request(request, users, training):
 
     category = request["category"]
